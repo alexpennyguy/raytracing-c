@@ -1,2 +1,2 @@
-# raytracing-c
-Ray Tracing algorithm implemented in C
+# raytracing.c
+Ray tracing algorithm implemented in C
